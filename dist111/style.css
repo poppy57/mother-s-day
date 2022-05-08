@@ -1,0 +1,47 @@
+body{
+    border-style:solid;
+    border-color:#f7df9e;
+    border-width:15px;
+}
+.quotes {
+  display: none;
+}
+
+.align-quote{
+  text-align:center;
+  font-size:80px;
+  color:#f7a5ff;
+}
+
+.center{
+    text-align: center;
+}
+
+.image-properties{
+    width:60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: .8;
+    border-style: solid;
+    padding: 2px;
+    border-color: pink;
+    border-width: 5px;
+    border-radius: 10%;
+}
+
+.title{
+    font-family:monospace;
+    font-size:40px;
+    text-align:center;
+}
+
+.footer-align{
+  text-align:right;
+}
+
+.bow-align{
+    margin-left:;
+    margin-right: 0;
+    width:50%;
+}
